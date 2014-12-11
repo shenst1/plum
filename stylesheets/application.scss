@@ -5,3 +5,14 @@
 // customize bootstrap variables here:
 @import "variables";
 @import "bootstrap";
+
+h1 {
+  font-weight: 100;
+  text-align: center;
+}
+.plum {
+  text-align: center;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}

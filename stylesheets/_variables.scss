@@ -11,16 +11,16 @@
 // Grays
 // -------------------------
 
-//$gray-darker:            lighten(#000, 13.5%); // #222
-//$gray-dark:              lighten(#000, 20%);   // #333
-//$gray:                   lighten(#000, 33.5%); // #555
-//$gray-light:             lighten(#000, 60%);   // #999
-//$gray-lighter:           lighten(#000, 93.5%); // #eee
+$gray-darker:            darken(#ffffff, 13.5%); // #222
+$gray-dark:              darken(#ffffff, 20%);   // #333
+$gray:                   darken(#ffffff, 33.5%); // #555
+$gray-light:             darken(#ffffff, 60%);   // #999
+$gray-lighter:           darken(#ffffff, 93.5%); // #eee
 
 // Brand colors
 // -------------------------
 
-//$brand-primary:         #428bca;
+$brand-primary:         #301030;
 //$brand-success:         #5cb85c;
 //$brand-warning:         #f0ad4e;
 //$brand-danger:          #d9534f;
@@ -29,7 +29,7 @@
 // Scaffolding
 // -------------------------
 
-//$body-bg:               #fff;
+$body-bg:               #301030;
 //$text-color:            $gray-dark;
 
 // Links
