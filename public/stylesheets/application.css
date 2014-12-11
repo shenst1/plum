@@ -6446,3 +6446,10 @@ h1 {
   max-width: 960px;
   margin: 0 auto;
 }
+.plum img {
+  width: 100%;
+}
+
+.footer {
+  padding-bottom: 20px;
+}
